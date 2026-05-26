@@ -1,5 +1,7 @@
 # Anti Crocodile
 
+![Stellar Logo](stellar.png)
+
 Transparent disaster relief fund disbursement using Stellar Soroban.
 
 ---

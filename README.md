@@ -1,6 +1,8 @@
 # Anti Crocodile
 
-![Stellar Logo](stellar.png)
+
+
+
 
 Transparent disaster relief fund disbursement using Stellar Soroban.
 
@@ -11,6 +13,14 @@ Local treasurers in Pampanga face corruption risks when releasing relief funds, 
 
 ## Solution
 Funds are locked in a Soroban contract and can only be released to pre‑approved recipients, with all transfers visible on‑chain.
+
+## Contract ID
+CDWUJ2EFGY6HTWAQTECQPDRHWJYJKQGSQOILKWKJJYOPJBG3URRRJWA2
+
+## Contract Link
+https://stellar.expert/explorer/testnet/contract/CDWUJ2EFGY6HTWAQTECQPDRHWJYJKQGSQOILKWKJJYOPJBG3URRRJWA2
+
+![Stellar Logo](stellar.png)
 
 ---
 
